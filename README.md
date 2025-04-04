@@ -1,2 +1,2 @@
 # git-assignment
-my first assignment in project
+"basic git operations assignment"
